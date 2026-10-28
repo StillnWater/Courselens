@@ -1,0 +1,12 @@
+.worktrees/
+.superpowers/
+node_modules/
+.pnpm-store/
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+*.db
+*.sqlite3
+dist/
+.next/
